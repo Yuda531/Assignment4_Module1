@@ -1,0 +1,37 @@
+{
+   "products": [
+      {
+         "name": "Mushrooms",
+         "imgPath": "img/products/mushroom.jpg",
+         "price":"18000",
+         "IDRrate":"1",
+         "SGDrate":"0.000093",
+         "YENrate":"0.009479"
+         
+      },
+      {
+         "name": "Potatos",
+         "imgPath": "img/products/potato.jpg",
+         "price":"25000",
+         "IDRrate":"1",
+         "SGDrate":"0.000093",
+         "YENrate":"0.009479"
+      },
+      {
+         "name": "carrots",
+         "imgPath": "img/products/carrot.jpg",
+         "price":"13000",
+         "IDRrate":"1",
+         "SGDrate":"0.000093",
+         "YENrate":"0.009479"
+      },
+      {
+         "name": "Tomatoes",
+         "imgPath": "img/products/tomatoes.jpg",
+         "price":"9000",
+         "IDRrate":"1",
+         "SGDrate":"0.000093",
+         "YENrate":"0.009479"
+      }
+   ]
+}
